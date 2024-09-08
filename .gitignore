@@ -1,3 +1,6 @@
+graphs/
+model_run_images/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
